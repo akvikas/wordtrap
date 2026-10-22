@@ -2,6 +2,10 @@
 
 WordTrap is a real-time social deduction word game: everyone except one imposter receives the same secret word. Players take turns giving timed clues, vote to identify the imposter, resolve ties by dealing a fresh word with the same imposter, and give the caught imposter one final guess to steal the round.
 
+## Live demo
+
+[Play WordTrap](https://wordtrap.vercel.app)
+
 ## Features
 
 - One authoritative game engine for roles, timers, scoring, and valid actions
