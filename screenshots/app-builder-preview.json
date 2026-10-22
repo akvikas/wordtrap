@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "WordTrap",
+      "hasCanvas": false,
+      "bodyTextLen": 682,
+      "bodyTextHash": "e590baab215e69be33c6f1124a4fe5464a0f89b15fec45819b06742b7ea65bfb",
+      "bodyTextPrefix": "PARLOR GAME WordTrap A real-time word table. One imposter, a sha",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "WordTrap",
+      "hasCanvas": false,
+      "bodyTextLen": 682,
+      "bodyTextHash": "e590baab215e69be33c6f1124a4fe5464a0f89b15fec45819b06742b7ea65bfb",
+      "bodyTextPrefix": "PARLOR GAME WordTrap A real-time word table. One imposter, a sha",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
